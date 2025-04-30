@@ -36,7 +36,7 @@ KeyLogger/ │ ├── keylogger.py # 🔑 The main script – records keystro
 
 ## 🚀 How to Use
 
-> 💻 You must have Python installed. Recommend Python 3.8+
+> 💻 You must have Python installed. Recommend Python 3.11.2
 
 1. **Clone this repo** or download the `keylogger.py` file:
 
