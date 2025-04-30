@@ -83,7 +83,7 @@ Python reverse engineering
 ❌ Legal Notice
 This software is not intended for use in unauthorized surveillance, spying, or data theft. Misuse can result in legal consequences. Always use in controlled environments with permission.
 
-© 2025 • Built with 🧠 and ☕ by [Visy-xyz]
+
 
 ### 💰 You can help me by Donating:
 
@@ -92,4 +92,4 @@ This software is not intended for use in unauthorized surveillance, spying, or d
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Button"/>
 </a>
 
-
+© 2025 • Built with 🧠 and ☕ by [Visy-xyz]
