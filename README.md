@@ -85,6 +85,11 @@ This software is not intended for use in unauthorized surveillance, spying, or d
 
 © 2025 • Built with 🧠 and ☕ by [Visy-xyz]
 
+### 💰 You can help me by Donating:
 
+<a href="https://buymeacoffee.com/visyy"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F8765E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/></a>
+<a href="https://paypal.me/visyyy22?country.x=AL&locale.x=en_US" target="_blank">
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Button"/>
+</a>
 
 
