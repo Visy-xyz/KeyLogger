@@ -40,40 +40,24 @@ KeyLogger/ │ ├── keylogger.py # 🔑 The main script – records keystro
 
 1. **Clone this repo** or download the `keylogger.py` file:
 
-```bash
-git clone https://github.com/yourusername/keylogger-project.git
-cd keylogger-project
-
-
-Install the required package:
-
-bash
-Copy
-Edit
+2.Install the required package:
 pip install pynput
-Edit the script
+
+3.Edit the script
 Open keylogger.py and set:
 
 Your sender Gmail address
-
 Receiver Gmail (can be same)
-
 App password (generate it from Google App Passwords)
 
-Run it:
-
-bash
-Copy
-Edit
+4.Run it:
 python keylogger.py
-✅ Logs will be emailed to you after every 100 keystrokes.
+
+5.✅ Logs will be emailed to you after every 100 keystrokes.
 
 🛠 Convert to Executable (Optional)
 To run without a console window:
 
-bash
-Copy
-Edit
 pip install pyinstaller
 pyinstaller --noconsole --onefile keylogger.py
 Your .exe file will appear in the dist/ folder.
@@ -87,7 +71,6 @@ Or…
 📞 Contact Me
 Need help setting it up or customizing it?
 
-
 🧠 Educational Use Cases
 Cybersecurity training
 
@@ -100,17 +83,8 @@ Python reverse engineering
 ❌ Legal Notice
 This software is not intended for use in unauthorized surveillance, spying, or data theft. Misuse can result in legal consequences. Always use in controlled environments with permission.
 
-© 2025 • Built with 🧠 and ☕ by [YourName]
+© 2025 • Built with 🧠 and ☕ by [Visy-xyz]
 
-yaml
-Copy
-Edit
 
----
 
-### ✅ Final Step:
-Replace:
-- `yourusername` → your actual GitHub username.
-- `[YourName]` → your display or real name.
 
-Let me know if you’d like a custom GitHub repo cover or icon to go with this!
